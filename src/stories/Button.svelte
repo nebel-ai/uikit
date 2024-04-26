@@ -4,7 +4,7 @@
 	/**
 	 * Is this the principal call to action on the page?
 	 */
-	export let primary = false;
+	export let primary = true;
 
 	/**
 	 * What background color to use
