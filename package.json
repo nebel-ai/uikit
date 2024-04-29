@@ -3,7 +3,6 @@
 	"version": "0.0.1",
 	"private": false,
 	"scripts": {
-		"main": "/src/index.ts",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
