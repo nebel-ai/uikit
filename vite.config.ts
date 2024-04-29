@@ -5,7 +5,7 @@ export default defineConfig({
 	plugins: [sveltekit()],
 	resolve: {
 		alias: {
-			'@': "/src/stories"
+			'uikit': "/src/stories"
 		}
 	},
 });
