@@ -1,3 +1,1 @@
-"use strict";
-
-export { Button } from "../src/stories/Button.svelte"
+export { default as Button } from "../stories/Button.svelte";
