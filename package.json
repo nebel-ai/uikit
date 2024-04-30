@@ -1,6 +1,6 @@
 {
   "name": "uikit",
-  "main": "index.js",
+  "main": "dist/index.js",
   "version": "0.0.1",
   "scripts": {
     "dev": "vite dev",
