@@ -1,3 +1,3 @@
 "use strict";
 
-import Button from "../src/stories/Button.svelte"
+export { Button } from "../src/stories/Button.svelte"
